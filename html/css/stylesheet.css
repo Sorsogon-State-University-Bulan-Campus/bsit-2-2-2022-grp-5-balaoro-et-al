@@ -2608,7 +2608,7 @@ input[type="datetime-local"]:hover,
 input[type="color"]:hover,
 textarea:hover,
 select:hover {
-    /* border-color:#8dc63f */
+    border-color:#8dc63f
 }
 
 textarea {

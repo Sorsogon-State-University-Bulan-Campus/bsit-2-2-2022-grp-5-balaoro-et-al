@@ -1,7 +1,4 @@
-/**
- * Element.matches and Element.closest polyfill
- * Jonathan Neal <https://github.com/jonathantneal/closest>
- */
+
 ( function( ElementProto ) {
     if ( typeof ElementProto.matches !== 'function' ) {
         ElementProto.matches = ElementProto.msMatchesSelector || ElementProto.mozMatchesSelector || ElementProto.webkitMatchesSelector || function matches( selector ) {

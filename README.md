@@ -1,7 +1,7 @@
 
 # Capture Crew  📸 
 
-✔️ This project is about the topic "Photography", a responsive photography website, featuring the formed friendships of BSIT 2-2 (Bachelor of Science in Information Technology 2 Block 2) students, a group named TAKURIYASHI. During the online classes of school year 2021-2022.
+✔️ This project is about the topic "Photography", a responsive photography website, featuring the formed friendships of some BSIT 2-2 (Bachelor of Science in Information Technology 2 Block 2) students. they are a established group named TAKURIYASHI, during the online classes of school year 2021-2022.
 
 ## FAQ ⁉️ 
 
@@ -41,9 +41,9 @@ and have supported us throughout this journey. We would like to thank
 each and every one of them for the support and guidance which helped
 us in completing our project.
 
-Special thanks to Prof. Anthony Gacis, without him, this website wouldn't
-have come into existence at all. It is his idea of the web-designing 
-project, that revealed us to the world of Superfluids.
+Special thanks to Prof. Anthony Gacis, MIT, without him, this website wouldn't
+have come into existence at all. It is his idea of the IPT 2 project, that revealed us to the world of Superfluids.
 
 Team 5,
-KJM.
+
+KJM

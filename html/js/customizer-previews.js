@@ -1,7 +1,3 @@
-/**
- * Theme Customizer enhancements for a better user experience.
- * Contains handlers to make Theme Customizer preview reload changes asynchronously.
- */
 
 ( function( $ ) {
 	$('#mastmenu .menu-item > a,#primary-menu-right .menu-item > a,#primary-menu-left .menu-item > a').click(function() {
