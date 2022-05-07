@@ -1,12 +1,5 @@
-/*!
-Template Name: Minimal Restaurant Website Template
-Template URI: https://www.template.net/editable/website-templates
-Author: template.net
-Author URI: https://www.template.net/
-License: template.net
-License URI: https://www.template.net/license-agreement
-*/
-@import url(https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900);
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900');
 @import url('https://fonts.googleapis.com/css?family=Baloo+Tamma&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Handlee&display=swap');
 
@@ -546,7 +539,7 @@ a {
 }
 
 a:visited {
-    /* color: #fdb714; */
+     color: #fdb714;
 }
 
 a:active,
@@ -1318,7 +1311,7 @@ a.back-to-top:hover {
 }
 
 .entry-title a:focus,
-.entry-title a:hover {}
+.entry-title a:hover
 
 .entry-featured {
     margin-bottom: 24px;
@@ -2475,7 +2468,7 @@ li.comment .comment-form > p {
     color: #fff;
 }
 
-.hero-section .section-header {}
+.hero-section .section-header
 
 
 .hero-section .section-title {
@@ -2484,9 +2477,9 @@ li.comment .comment-form > p {
     letter-spacing: 1.8px;
 }
 
-@media (min-width:1600px) {
+/* @media (min-width:1600px) {
     font-size: 4.2rem;
-}
+} */
 
 .hero-section .section-subtitle {
     margin: 0px auto 0;
@@ -2817,7 +2810,7 @@ h4 {
 }
 
 h4.small,
-.blog-section .entry-title {}
+.blog-section .entry-title
 
 h5 {
     font-weight: 500;
@@ -2866,7 +2859,9 @@ h6 {
         display: none
     }
 
-    .main-navigation.menu-desktop {}
+    .main-navigation.menu-desktop {
+        display: fit
+    }
 }
 
 @media (max-width:991px) {
@@ -3105,7 +3100,7 @@ h6 {
     padding: 0 27px;
 }
 
-.chefs-section .chef-grid-col {}
+.chefs-section .chef-grid-col
 
 .chefs-section .chef-grid-col article {
     position: relative;
@@ -3202,7 +3197,7 @@ h6 {
 }
 
 /*=============section gallery-section===========*/
-.section.gallery-section {}
+.section.gallery-section
 
 .gallery-section .gallery-content {
     margin: 0 -11px;
@@ -3379,7 +3374,7 @@ h6 {
     padding-top: 95px;
 }
 
-.present-section .section-header {}
+.present-section .section-header
 
 .present-section .section-header h2 {
     letter-spacing: 2.3px;
@@ -3501,7 +3496,7 @@ h6 {
 }
 
 /*=================section articles-section==============*/
-.section.articles-section {}
+.section.articles-section
 
 .articles-section .section-header {
     margin-left: 0;
@@ -3570,7 +3565,7 @@ h6 {
 }
 
 .articles-section .post-header a:hover,
-.articles-section .post-header a:focus {}
+.articles-section .post-header a:focus
 
 .articles-section .post-header .post-button {
     padding: 12px 27px;
@@ -3695,7 +3690,7 @@ h6 {
 }
 
 /*==============contact=====*/
-.section.subscribe-contact-section {}
+.section.subscribe-contact-section
 
 .subscribe-contact-section .post-overlay-hiden {
     padding: 25px;
@@ -3899,7 +3894,7 @@ ul.contact-item-social li:last-child .contact-item-flag {
 		font-size: 2.8rem;*/
     }
 
-    .chefs-section .post-head .content {}
+    .chefs-section .post-head .content
 
     .menu-section .entry-thumbnail {
         -ms-flex: 0 0 30%;
@@ -4524,7 +4519,7 @@ ul.contact-item-social li:last-child .contact-item-flag {
         margin-top: 30px;
     }
 
-    .testimonials-section .section-right .section-testimonial-big {}
+    .testimonials-section .section-right .section-testimonial-big
 
     .testimonials-section .section-right .section-testimonial-small,
     .subscribe-contact-section .image .section-subscribe-img-small {
